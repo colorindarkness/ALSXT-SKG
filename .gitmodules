@@ -1,0 +1,7 @@
+[submodule "Plugins/ALS-Refactored"]
+	path = Plugins/ALS-Refactored
+	url = git@github.com:Sixze/ALS-Refactored.git
+	branch = main
+[submodule "Plugins/ALSXT"]
+	path = Plugins/ALSXT
+	url = git@github.com:Voidware-Prohibited/ALSXT.git
